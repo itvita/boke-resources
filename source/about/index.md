@@ -1,4 +1,5 @@
 ---
+title: 关于
 thumbnail: http://wx3.sinaimg.cn/large/b5d1b710ly1g6s7hn2aycj212w0k0dx5.jpg
 date: 2018-11-11 08:24:49
 comments: false

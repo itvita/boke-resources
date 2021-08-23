@@ -1,4 +1,5 @@
 ---
+title: 友链
 thumbnail: http://wx2.sinaimg.cn/large/b5d1b710ly1g6tkoq1a10j212w0k17wh.jpg
 date: 2019-09-09 18:52:09
 ---
