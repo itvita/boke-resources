@@ -2,7 +2,7 @@
 title: 说说
 date: 2019-11-25 14:49:08
 comments: false
-thumbnail: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/talk.JPG
+thumbnail: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/talk.png
 ---
 <div class = "text-center"><h1>说说</h1></div><div class = "text-tips">
 
