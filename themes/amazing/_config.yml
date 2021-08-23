@@ -20,7 +20,6 @@ head:
         type: blog
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
-        # url: https://removeif.github.io/
         url: https://itvita.cn
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
@@ -88,13 +87,13 @@ navbar:
         # Music: /music
         # 影音: /media
     # Links to be shown on the right of the navigation bar
-    # links:
-    #     Join Gitter:
-    #         icon: fab fa-gitter
-    #         url: 'https://gitter.im/hexo-theme-amazing/community'
-    #     Download on GitHub:
-    #         icon: fab fa-github
-    #         url: 'https://github.com/removeif/hexo-theme-amazing'
+    links:
+        Join Gitter:
+            icon: fab fa-gitter
+            url: 'https://gitter.im/hexo-theme-amazing/community'
+        Download on GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/removeif/hexo-theme-amazing'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
@@ -105,9 +104,9 @@ footer:
         Attribution 4.0 International:
             icon: fab fa-creative-commons-by
             url: 'https://creativecommons.org/licenses/by/4.0/'
-        # Download on GitHub:
-        #     icon: fab fa-github
-        #     url: 'https://github.com/removeif/hexo-theme-amazing'
+        Download on GitHub:
+            icon: fab fa-github
+            url: 'https://github.com/removeif/hexo-theme-amazing'
 # Article related configurations
 article:
     # Code highlight settings
@@ -174,7 +173,7 @@ comment:
 # utteranc site: https://utteranc.es/
 # comment:
 #     type: utteranc
-#     repo: removeif/utteranc_comment # (required) GitHub userName & repository name
+#     repo: itvita/utteranc_comment # (required) GitHub userName & repository name
 #     issue_term: pathname 
 #     issue_number: 
 #     label: 
@@ -394,8 +393,8 @@ providers:
     fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
     iconcdn: loli
-    # https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v1.0.6/json_data/record.json, cdn前缀，对于hexo new page 页面中引用的资源文件不生效，需要手动改，如friend友链页中引用的资源
-    # my_cdn_pre: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@v1.0.8/ #https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v2.2.1
+    # https://cdn.jsdelivr.net/gh/itvita/itvita.github.io@v1.0.6/json_data/record.json, cdn前缀，对于hexo new page 页面中引用的资源文件不生效，需要手动改，如friend友链页中引用的资源
+    # my_cdn_pre: https://cdn.jsdelivr.net/gh/itvita/itvita-demo@v1.0.8/ #https://cdn.jsdelivr.net/gh/itvita/itvita.github.io@v2.2.1
 
 
 footer_copyright_dsec: © 版权说明：[本网站所有内容均收集于互联网或自己创作,<br />&nbsp;&nbsp;&nbsp;&nbsp;方便于网友与自己学习交流，如有侵权，请<a href="/message" target="_blank">留言</a>，立即处理]<br /> #footer 版权说明 可自由配置

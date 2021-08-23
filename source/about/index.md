@@ -1,55 +1,31 @@
 ---
-title: 关于
-thumbnail: http://wx3.sinaimg.cn/large/b5d1b710ly1g6s7hn2aycj212w0k0dx5.jpg
-date: 2018-11-11 08:24:49
+# title: 关于
+thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210823155326.jpeg
+date: 2021-03-02 16:06:00
 comments: false
 ---
 
-#### 个人简介
+#### 个人简介：
 
 ---
-分享很喜欢的**[老罗](https://baike.baidu.com/item/%E7%BD%97%E6%B0%B8%E6%B5%A9/26814?fr=aladdin)**的一段话：
->"***每一个生命来到世间都注定改变世界，别无选择。要么变得好一点，要么变得坏一点。你如果走进社会为了生存为了什么不要脸的理由，变成了一个恶心的成年人社会中的一员，那你就把这个世界变得恶心了一点点。如果你一生刚正不阿，如果你一生耿直，没有做任何恶心的事情，没做对别人有害的事情，一辈子拼了老命勉强把自己身边的几个人照顾好了，没有成名没有发财，没有成就伟大的事业，然后耿着脖子一生正直，到了七八十岁耿着脖子去世了。你这一生是不是没有改变世界？你还是改变世界了，你把这个世界变得美好了一点点。因为世界上又多了一个好人。***"
-
-
-善恶终有报,天道好轮回。不信抬头看,苍天饶过谁。
-无论何时何地，我们都要保持一颗积极乐观、善良感恩的心。
-但行好事莫问前程，永远年轻，永远热内盈眶，永远保持**正能量**。
-💪💪💪💪💪💪冲鸭！！！！
-
-->>>>>>>>>>>>>>>>>>>>
-个人信息：
 计算机科学与技术专业
 从事JAVA后端开发
-码畜一枚
-坚信代码改变世界
+程序猿一只
+捯饬代码使我开心
 
 <br>
 
-#### 博客信息
+#### 博客信息：
 
 ---
-+ 网站采用的[Icarus主题](http://github.com/ppoffice/hexo-theme-icarus) 
-+ 追求尽可能的简洁，清晰，易用。
-+ 在Icarus主题之上进行了部分修改。
++ 网站采用[Hexo](https://hexo.io/zh-cn/)搭建
++ 网站采用[hexo-theme-amazing](https://github.com/removeif/hexo-theme-amazing)主题
 
 
-#### 本站推荐索引
+<!-- #### 时间线
 
 ---
-**博客主题相关**
-+ [github Issue 作为博客微型数据库的应用](https://removeif.github.io/theme/github-Issue-作为博客微型数据库的应用.html)
-+ [github page网站cdn优化加速](https://removeif.github.io/theme/github-page网站cdn优化加速.html)
-+ [博客源码分享](https://removeif.github.io/theme/博客源码分享.html)
-+ [博客换肤的一种实现方式思路](https://removeif.github.io/theme/博客换肤的一种实现方式思路.html)
-+ [博客中gitalk最新评论的获取](https://removeif.github.io/theme/博客中gitalk最新评论的获取.html)
-+ [博客图片上传picgo工具github图传使用](https://removeif.github.io/theme/博客图片上传picgo工具github图传使用.html)
-+ [安装、部分配置icarus主题中文版](https://removeif.github.io/theme/安装、部分配置icarus主题中文版.html)
-
-<br>
-
-
-<!-- <div class="time-axis-main">
+<div class="time-axis-main">
 	<ul class="time-axis"></ul>
 </div>
 <script src="/js/about-me.js"></script>

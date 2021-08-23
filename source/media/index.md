@@ -25,7 +25,7 @@ thumbnail: http://wx1.sinaimg.cn/large/b5d1b710ly1g6s77l1eikj212w0gbn7r.jpg
 <script type="text/javascript" defer src="/js/music.js"></script>
 
 <br/>
-<p style = "text-align:center"><span style="font-size:13px;">音乐播放器由<a href="https://github.com/newraina/mePlayer" target="_blank" rel="noopener">mePlayer</a>提供，布局参照<a href="https://dp2px.com/music/" target="_blank" rel="noopener">网友博客</a>所作，感谢作者的辛勤付出。更多音乐分享请查看<a href="https://removeif.github.io/music/">歌单</a>。</span></p>
+<p style = "text-align:center"><span style="font-size:13px;">音乐播放器由<a href="https://github.com/newraina/mePlayer" target="_blank" rel="noopener">mePlayer</a>提供，布局参照<a href="https://dp2px.com/music/" target="_blank" rel="noopener">网友博客</a>所作，感谢作者的辛勤付出。更多音乐分享请查看<a href="https://itvita.github.io/music/">歌单</a>。</span></p>
 <link rel="stylesheet" href="/css/DPlayer.min.css"/>
 <br/>
 <br/>

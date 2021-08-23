@@ -45,7 +45,7 @@ module.exports = function (hexo) {
     // filename resource abs url
     hexo.extend.helper.register('my_cdn', function (filename) {
 
-        // https://cdn.jsdelivr.net/gh/removeif/removeif.github.io@v1.0.6/json_data/record.json
+        // https://cdn.jsdelivr.net/gh/itvita/itvita.github.io@v1.0.6/json_data/record.json
         // full url,return
         if (filename.startsWith("https://cdn.jsdelivr.net")) {
             return filename;

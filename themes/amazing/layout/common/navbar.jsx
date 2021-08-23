@@ -27,7 +27,6 @@ class Navbar extends Component {
             showSearch,
             searchTitle
         } = this.props;
-
         let navbarLogo = '';
         if (logo) {
             if (logo.text) {
