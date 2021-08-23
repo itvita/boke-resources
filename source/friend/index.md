@@ -1,6 +1,6 @@
 ---
 title: 友链
-thumbnail: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/friend.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/friend.jpg
 date: 2019-09-09 18:52:09
 ---
 <div class="friend-title-item"><br>申请友链须知<br><br><hr></div>

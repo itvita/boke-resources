@@ -4,11 +4,11 @@ version: 4.0.0
 variant: default
 language: zh-CN
 # Path or URL to the website's logo
-logo: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo-text.png #/img/logo.svg
+logo: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/logo-text.png #/img/logo.svg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo.png #/img/favicon.svg
+    favicon: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/logo.png #/img/favicon.svg
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -24,7 +24,7 @@ head:
         url: https://itvita.cn
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
-        image: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo.png
+        image: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/logo.png
         # Site name (og:site_name) (optional)
         # You should leave this blank for most of the time
         site_name: IT生活
@@ -79,11 +79,12 @@ navbar:
         归档: /archives
         分类: /categories
         标签: /tags
-        关于: /about
         # 相册: /album
         友链: /friend
         留言: /message
         说说: /talk
+        关于: /about
+
         # Music: /music
         # 影音: /media
     # Links to be shown on the right of the navigation bar
@@ -187,12 +188,12 @@ donates:
         # Donation entry name
         type: alipay
         # Qrcode image URL
-        qrcode: 'https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/zfbpay.jpg'
+        qrcode: 'https://cdn.jsdelivr.net/gh/itvita/resources@master/images/zfbpay.jpg'
     -
         # Donation entry name
         type: wechat
         # Qrcode image URL
-        qrcode: 'https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/wxpay.jpg'
+        qrcode: 'https://cdn.jsdelivr.net/gh/itvita/resources@master/images/wxpay.jpg'
     # "Buy me a coffee" donate button configurations
 #    -
 #        type: buymeacoffee
@@ -254,7 +255,7 @@ widgets:
         # Author's current location
         location: 河南-郑州
         # URL or path to the avatar image
-        avatar: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/avatar.png
+        avatar: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/avatar.png
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
