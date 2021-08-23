@@ -37,7 +37,7 @@
 + 文章中推荐文章模块配置 
 + 增加深色主题切换
 + 加入加密文章
-+ 碎碎念功能
++ 说说功能
 + 透明无界样式
 + 简化部分widget数据，加入`查看全部`按钮
 + gitalk评论增加评论开关，评论列表中标记博主
@@ -66,7 +66,7 @@ git clone https://github.com/removeif/hexo-theme-amazing.git themes/amazing
 #### 开始部分配置：
 **敲黑板！！！！首先全局以及主题中的`_config.yml`配置成自己的对应参数。**  
 
-把主题中ex_pages文件夹中的文件复制到博客主目录相应目录下面。包含了文章模板、关于页、相册页、友链、留言板、音乐、影音、碎碎念页面（各个页面的.md文件可自定义修改内容），可以自己选择性需要哪些页面复制哪些过去，同时对应配置主题中`_config.yml`需要删除以及保留相应的menu，如下配置
+把主题中ex_pages文件夹中的文件复制到博客主目录相应目录下面。包含了文章模板、关于页、相册页、友链、留言板、音乐、影音、说说页面（各个页面的.md文件可自定义修改内容），可以自己选择性需要哪些页面复制哪些过去，同时对应配置主题中`_config.yml`需要删除以及保留相应的menu，如下配置
 ```yaml
 navbar:
     # Naviagtion menu items
@@ -78,7 +78,7 @@ navbar:
         影音: /media
         相册: /album
         友链: /friend
-        碎碎念: /self-talking
+        说说: /self-talking
         留言: /message
         关于: /about
 ```
@@ -213,8 +213,8 @@ wrong_hash_message: 不好意思，信息无法验证！
 ---
 ```
 注：**加密文章不会出现在最新文章列表widget中，也不会出现在文章中推荐列表中，首页列表中需要设置top: -1 让它排在最后比较合理一些。**
-#### 10.碎碎念的使用
-在github中，创建碎碎念issue，并且打上对应的label（`eg:Gitalk,666666`）如下图，此处666666对应下面配置代码中的id，填写到：博客目录/source/self-talking/index.md文件中如下对应位置，其余配置也要改成自己的，如clientID等。
+#### 10.说说的使用
+在github中，创建说说issue，并且打上对应的label（`eg:Gitalk,666666`）如下图，此处666666对应下面配置代码中的id，填写到：博客目录/source/self-talking/index.md文件中如下对应位置，其余配置也要改成自己的，如clientID等。
 ![](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200310182707.png)
 ```js
 <script>
@@ -234,7 +234,7 @@ wrong_hash_message: 不好意思，信息无法验证！
 </script>
 ```
 如下：
-![碎碎念](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200119181607.png)
+![说说](https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20200119181607.png)
 #### 11.本博客样式（透明无界）
 只需要放开themes/amazing/source/css/base.styl文件中以下样式代码注释即可，默认是注释的没启用
 ```css 
