@@ -121,6 +121,7 @@ function loadMainJs($, moment, ClipboardJS, config) {
     }
 
     const $toc = $('#toc');
+    console.log('$toc',$toc)
     if ($toc.length > 0) {
         const $mask = $('<div>');
         $mask.attr('id', 'toc-mask');
