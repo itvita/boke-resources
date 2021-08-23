@@ -6,8 +6,8 @@ recommend: 1
 keywords: categories-github
 date: 2019-09-19 22:10:43
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/liuqiang@master/boke/peitu/lf4.jpg
-tags: xui-admin
-categories: [工具教程]
+tags: vue
+categories: ["前端教程","VUE自定义组件仓库"]
 # encrypt: false  #加密
 # password: 123456 #此处为文章密码
 # abstract: 咦，这是一篇加密文章，好像需要输入密码才能查看呢！
