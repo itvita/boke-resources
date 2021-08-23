@@ -4,11 +4,11 @@ version: 4.0.0
 variant: default
 language: zh-CN
 # Path or URL to the website's logo
-logo: https://cdn.jsdelivr.net/gh/itvita/boke-source@master/docs/logo-text.png #/img/logo.svg
+logo: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo-text.png #/img/logo.svg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: https://cdn.jsdelivr.net/gh/itvita/boke-source@master/docs/logo.png #/img/favicon.svg
+    favicon: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo.png #/img/favicon.svg
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -24,7 +24,7 @@ head:
         url: https://itvita.cn
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
-        image: https://cdn.jsdelivr.net/gh/itvita/boke-source@master/docs/logo.png
+        image: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo.png
         # Site name (og:site_name) (optional)
         # You should leave this blank for most of the time
         site_name: IT生活
@@ -254,7 +254,7 @@ widgets:
         # Author's current location
         location: 河南-郑州
         # URL or path to the avatar image
-        avatar: https://cdn.jsdelivr.net/gh/itvita/boke-source@master/docs/avatar.png
+        avatar: https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/avatar.png
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar

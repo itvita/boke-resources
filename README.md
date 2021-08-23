@@ -37,4 +37,4 @@
     ```
 
 # cdn
-https://cdn.jsdelivr.net/gh/itvita/boke-source@master/static
+https://cdn.jsdelivr.net/gh/itvita/resourcesboke@master/docs/logo.png
