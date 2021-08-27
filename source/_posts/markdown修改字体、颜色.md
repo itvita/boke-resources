@@ -13,7 +13,7 @@ uniqueId: '2021-08-23 10:14:20/markdown修改字体、颜色.html'
 date: 2021-08-23 18:14:20
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210823181708.jpeg
 tags: markdown
-categories: ['工具教程']
+categories: ['工具']
 ---
 
 ## 字体

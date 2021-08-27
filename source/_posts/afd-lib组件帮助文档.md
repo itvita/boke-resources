@@ -1,6 +1,6 @@
 ---
 title: afd-lib组件帮助文档
-categories: ["前端教程","VUE自定义组件仓库"]
+categories: ["前端","VUE自定义组件仓库"]
 toc: true
 recommend: 1
 uniqueId: '2021-08-23 10:36:12/afd-lib组件帮助文档.html'

@@ -1,6 +1,6 @@
 ---
 title: Git从版本库中移除文件
-categories: ['工具教程']
+categories: ['工具']
 toc: true
 recommend: 1
 uniqueId: '2021-08-23 10:27:15/Git从版本库中移除文件.html'

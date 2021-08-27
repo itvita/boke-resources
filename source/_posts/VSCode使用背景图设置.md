@@ -1,13 +1,13 @@
 ---
 title: VSCode使用背景图设置
-categories: ['工具教程']
+categories: ['工具']
 toc: true
 recommend: 1
 uniqueId: '2021-08-23 10:22:27/VSCode使用背景图设置.html'
 date: 2021-08-23 18:22:27
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210823182331.jpeg
-tags: vsCode
-keywords: vsCode
+tags: vscode
+keywords: vscode
 ---
 
 > 下载地址

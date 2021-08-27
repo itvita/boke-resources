@@ -1,6 +1,6 @@
 ---
 title: js通过url下载文件
-categories: ["前端教程"]
+categories: ["前端"]
 toc: true
 recommend: 1
 uniqueId: '2021-08-23 10:29:56/js通过url下载文件.html'
