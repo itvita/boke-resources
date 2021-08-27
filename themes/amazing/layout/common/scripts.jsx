@@ -69,6 +69,7 @@ module.exports = class extends Component {
             <script src={my_cdn(url_for('/js/column.js'))}></script>
             <Plugins site={site} config={config} page={page} helper={helper} head={false} />
             <script src={my_cdn(url_for('/js/main.js'))} defer></script>
+            <script src={my_cdn(url_for('/js/caidaibg.js'))} defer></script>
             {(hasHotRecommend || !hasBanner) ? null : <script src={my_cdn(url_for('/js/banner.js'))}></script>}
             {hasComment ? <script dangerouslySetInnerHTML={{ __html: js }}></script> : null}
         </Fragment>;
