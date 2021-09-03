@@ -42,7 +42,7 @@ useradd -M -s /sbin/nologin nginx
 ### 配置编译参数
 
 ```
-./configure --prefix=/opt/nginx-1.18.0/data --with-http_stub_status_module --with-http_ssl_module --with-http_realip_module --with-http_flv_module --with-http_mp4_module --with-http_gzip_static_module --with-stream --with-stream_ssl_module #./configure –help
+./configure --prefix=/opt/nginx --with-http_stub_status_module --with-http_ssl_module --with-http_realip_module --with-http_flv_module --with-http_mp4_module --with-http_gzip_static_module --with-stream --with-stream_ssl_module #./configure –help
 ```
 
 ### 安装
@@ -54,7 +54,7 @@ make && make install
 ### 启动
 
 ```
-cd /opt/nginx-1.18.0/data/sbin
+cd /opt/nginx/sbin
 ./nginx
 ```
 
