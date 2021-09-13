@@ -1,12 +1,12 @@
 ---
 title: CentOS7配置Maven
-categories: ['CentOS']
+categories: ['centos']
 toc: true
 recommend: 1
 uniqueId: '2021-08-31 06:21:41/CentOS7配置Maven.html'
 date: 2021-08-31 14:21:41
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210913100605.jpeg
-tags: maven
+tags: linux
 keywords: centos,maven
 ---
 

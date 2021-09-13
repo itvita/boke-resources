@@ -1,12 +1,12 @@
 ---
 title: CentOS7安装Nginx
-categories: ["CentOS"]
+categories: ["centos"]
 toc: true
 recommend: 1
 uniqueId: '2021-08-26 01:30:44/CentOS7安装Nginx.html'
 date: 2021-08-26 09:30:44
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210826093552.jpeg
-tags: nginx
+tags: linux
 keywords: nginx
 ---
 

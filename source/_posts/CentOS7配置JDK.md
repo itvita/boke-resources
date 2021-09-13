@@ -1,12 +1,12 @@
 ---
 title: CentOS7配置JDK
-categories: ["CentOS"]
+categories: ["centos"]
 toc: true
 recommend: 1
 uniqueId: '2021-08-26 01:28:51/CentOS7配置JDK.html'
 date: 2021-08-26 09:28:51
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210826093346.jpeg
-tags: java
+tags: linux
 keywords: jdk,centos
 ---
 
