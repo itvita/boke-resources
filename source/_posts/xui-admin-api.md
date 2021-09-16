@@ -239,3 +239,41 @@ export default {
 | ------------ | ------------------ | ---------------- |
 | getSelectIds |  | 获取选中ID |
 | getSelectObjects |  | 获取选中对象 |
+
+## 描述列表
+### 示例
+![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210916182410.png)
+### 代码
+```html
+<template>
+<div>
+  <xui-descriptions label-width="200px" label="测试标题" >
+    斐济电视剧覅哦啊江东四杰佛i啊惊世毒妃
+  </xui-descriptions>
+  <xui-descriptions label="测试标题" label-width="200px">
+    斐济电视剧覅
+  </xui-descriptions>
+   <xui-descriptions label="测试标题" label-width="200px">
+    <div><img src="fidjsif"/></div>
+  </xui-descriptions>
+</div>
+</template>
+<script>
+export default {
+data () {
+return {}
+},
+mounted () {},
+methods: {}
+}
+</script>
+<style scoped lang="less"></style>
+
+```
+
+
+### 属性
+| 属性   | 说明                    | 类型   | 默认值 |
+| ------ | ----------------------- | ------ | ------ |
+| label  | 标题                | String |    |
+|label-width|标题宽度，单位px|String|0px|
