@@ -1,8 +1,6 @@
 ---
 title: app无法打开或已损坏解决办法
 categories: ["mac"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 06:43:19/app无法打开或已损坏解决办法.html'
 date: 2021-08-27 14:43:19
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827144429.jpeg

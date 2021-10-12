@@ -1,8 +1,6 @@
 ---
 title: CentOS7安装mysql
 categories: ["centos"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-26 01:39:37/CentOS7安装mysql.html'
 date: 2021-08-26 09:39:37
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210826094118.jpeg

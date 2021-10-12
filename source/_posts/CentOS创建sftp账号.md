@@ -1,8 +1,6 @@
 ---
 title: CentOS创建sftp账号
 categories: ["centos"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-26 01:42:14/CentOS创建sftp账号.html'
 date: 2021-08-26 09:42:14
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210826094338.jpeg

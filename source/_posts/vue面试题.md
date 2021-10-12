@@ -1,8 +1,6 @@
 ---
 title: vue面试题
 categories: ["前端","VUE"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 03:15:00/vue面试题.html'
 date: 2021-08-27 11:15:00
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827111747.jpeg

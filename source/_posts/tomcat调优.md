@@ -1,8 +1,6 @@
 ---
 title: tomcat调优
 categories: ["springboot"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 02:47:43/tomcat调优.html'
 date: 2021-08-27 10:47:43
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827110056.jpeg

@@ -1,8 +1,6 @@
 ---
 title: mac配置多jdk随意切换
 categories: ["mac"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 06:39:48/mac配置多jdk随意切换.html'
 date: 2021-08-27 14:39:48
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827144122.jpeg

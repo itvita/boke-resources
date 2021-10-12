@@ -1,8 +1,6 @@
 ---
 title: git分支与合并
 categories: ["工具"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 03:07:38/git分支与合并.html'
 date: 2021-08-27 11:07:38
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827110836.jpeg

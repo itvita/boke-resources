@@ -1,8 +1,6 @@
 ---
 title: 亚马逊awsVpn配置
 categories: ["工具"]
-toc: false
-recommend: 1
 uniqueId: '2021-08-27 02:52:09/亚马逊awsVpn配置.html'
 date: 2021-08-27 10:52:09
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827105956.jpeg

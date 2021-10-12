@@ -1,8 +1,6 @@
 ---
 title: vscode配置
 categories: ["工具"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 03:21:28/vscode配置.html'
 date: 2021-08-27 11:21:28
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827112244.jpg

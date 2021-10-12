@@ -1,8 +1,6 @@
 ---
 title: centos安装字体
 categories: ["centos"]
-toc: true
-recommend: 1
 uniqueId: '2021-09-13 08:45:31/centos安装字体.html'
 date: 2021-09-13 16:45:31
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210913172731.jpeg

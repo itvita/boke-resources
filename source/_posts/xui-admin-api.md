@@ -1,7 +1,7 @@
 ---
 title: xui-admin API
 top: 1
-toc: false
+toc: true
 recommend: 1 
 keywords: categories-github
 date: 2019-09-19 22:10:43
@@ -242,7 +242,7 @@ export default {
 
 ## 描述列表
 ### 示例
-![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210916182410.png)
+![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210917094248.png)
 ### 代码
 ```html
 <template>

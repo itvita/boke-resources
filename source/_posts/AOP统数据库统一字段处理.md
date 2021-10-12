@@ -1,8 +1,6 @@
 ---
 title: AOP统数据库统一字段处理
 categories: ["springboot"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 03:18:47/AOP统数据库统一字段处理.html'
 date: 2021-08-27 11:18:47
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827112022.jpeg

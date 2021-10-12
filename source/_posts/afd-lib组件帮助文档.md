@@ -2,7 +2,7 @@
 title: afd-lib组件帮助文档
 categories: ["前端","VUE自定义组件仓库"]
 toc: true
-recommend: 1
+recommend: 2
 uniqueId: '2021-08-23 10:36:12/afd-lib组件帮助文档.html'
 date: 2021-08-23 18:36:12
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210823190519.jpeg

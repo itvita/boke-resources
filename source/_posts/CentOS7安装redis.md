@@ -1,8 +1,6 @@
 ---
 title: CentOS7安装redis
 categories: ["centos"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-26 01:36:36/CentOS7安装redis.html'
 date: 2021-08-26 09:36:36
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210826093830.jpeg

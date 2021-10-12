@@ -1,8 +1,6 @@
 ---
 title: uniapp在线更新
 categories: ["uniapp"]
-toc: true
-recommend: 1
 uniqueId: '2021-09-13 05:52:36/uniapp在线更新.html'
 date: 2021-09-13 13:52:36
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210913135538.jpeg

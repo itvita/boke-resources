@@ -1,8 +1,6 @@
 ---
 title: bbb视频会议系统搭建
 categories: ["工具"]
-toc: true
-recommend: 1
 uniqueId: '2021-08-27 03:03:43/bbb视频会议系统搭建.html'
 date: 2021-08-27 11:03:43
 thumbnail: https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20210827110555.jpg
