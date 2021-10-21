@@ -277,3 +277,80 @@ methods: {}
 | ------ | ----------------------- | ------ | ------ |
 | label  | 标题                | String |    |
 |label-width|标题宽度，单位px|String|0px|
+
+## 图片预览
+### 示例
+![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20211021113519.png)
+
+![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20211021113828.png)
+
+![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20211021113549.png)
+
+### 代码
+
+```html
+<template>
+  <div>
+    <xui-image-preview
+      :showBtn="true"
+      :showName="false"
+      width="100px"
+      height="100px"
+      :baseUrl="baseUrl"
+      url="path"
+      v-model="ImgList"
+    />
+  </div>
+</template>
+<script>
+export default {
+  data () {
+    return {
+      baseUrl: 'https://norisk-prod-1305901002.cos.ap-chengdu.myqcloud.com/',
+      ImgList: [
+        {
+          name: '测试',
+          path: '20211015/f9cec9d0e43d4edb91c69d5d2b9389b0.jpg'
+        },
+        {
+          name: '测试',
+          path: '20211015/f9cec9d0e43d4edb91c69d5d2b9389b0.jpg'
+        },
+        {
+          name: '测试',
+          path: '20211015/f9cec9d0e43d4edb91c69d5d2b9389b0.jpg'
+        },
+        {
+          name: '测试',
+          path: '20211015/f9cec9d0e43d4edb91c69d5d2b9389b0.jpg'
+        },
+        {
+          name: '测试',
+          path: '20211015/f9cec9d0e43d4edb91c69d5d2b9389b0.jpg'
+        }
+      ]
+    }
+  },
+  mounted () {},
+  methods: {}
+}
+</script>
+<style scoped lang="less"></style>
+
+```
+### 属性
+| 属性   | 说明                    | 类型   | 默认值 |
+| ------ | ----------------------- | ------ | ------ |
+| v-model(value)  | 数据[{name:xx,url:xx}]                | Array | []   |
+|url|url 键名|String|url|
+|baseUrl|图片访问跟域名|String|''|
+|width|宽|String|100px|
+|height|高|String|100px|
+|showBtn|是否显示预览 删除按钮|Boolean|false|
+|showName|是否显示图片名称|Boolean|false|
+
+### 事件
+| 事件名称     |回调参数         | 说明               | 
+| ------------ | ------------------ | ---------------- |
+| change | function(newData) | 图片列表改变后的数组
+| delete | function(newData,delData) | 删除事件，newData删除后的结果，delData删除数据
