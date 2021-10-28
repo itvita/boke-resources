@@ -369,6 +369,7 @@ export default {
       :action="action"
       :basePath="basePath"
       :height="300"
+      :headers="headers"
     />
   </div>
 </template>
@@ -378,7 +379,10 @@ export default {
     return {
       action: 'https://apis.norisk.com.cn/app/company/v1/common/ant/upload', // 文件上传地址
       basePath: 'https://norisk-prod-1305901002.cos.ap-chengdu.myqcloud.com/', // 文件预览跟地址
-      values: '<p>我是默认内容</p>'
+      values: '<p>我是默认内容</p>',
+      headers: {
+        'token':'111111'
+      }
     }
   },
   mounted () {},
@@ -399,6 +403,7 @@ export default {
 |basePath|图片访问跟路径|String|''|
 |placeholder|空内容提示性文字|String|请输入内容...|
 |height|高(单位px)|Number|300|
+|headers|自定义header|Object|{}|
 
 ### 事件
 | 事件名称     |回调参数         | 说明               | 
