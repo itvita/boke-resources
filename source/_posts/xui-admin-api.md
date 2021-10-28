@@ -354,3 +354,53 @@ export default {
 | ------------ | ------------------ | ---------------- |
 | change | function(newData) | 图片列表改变后的数组
 | delete | function(newData,delData) | 删除事件，newData删除后的结果，delData删除数据
+
+## 富文本
+### 示例
+![](https://cdn.jsdelivr.net/gh/itvita/resources@master/images/20211028105103.png)
+### 代码
+```html
+<template>
+  <div>
+    <xui-editor
+      v-model="values"
+      @change="handelChange"
+      placeholder="输入内容提示文字。。。"
+      :action="action"
+      :basePath="basePath"
+      :height="300"
+    />
+  </div>
+</template>
+<script>
+export default {
+  data () {
+    return {
+      action: 'https://apis.norisk.com.cn/app/company/v1/common/ant/upload', // 文件上传地址
+      basePath: 'https://norisk-prod-1305901002.cos.ap-chengdu.myqcloud.com/', // 文件预览跟地址
+      values: '<p>我是默认内容</p>'
+    }
+  },
+  mounted () {},
+  methods: {
+    handelChange () {
+      console.log(this.values)
+    }
+  }
+}
+</script>
+<style scoped lang="less"></style>
+```
+### 属性
+| 属性   | 说明                    | 类型   | 默认值 |
+| ------ | ----------------------- | ------ | ------ |
+| v-model(value)  | 数据(html内容)   | String | ''  |
+|action|文件上传地址|String|''|
+|basePath|图片访问跟路径|String|''|
+|placeholder|空内容提示性文字|String|请输入内容...|
+|height|高(单位px)|Number|300|
+
+### 事件
+| 事件名称     |回调参数         | 说明               | 
+| ------------ | ------------------ | ---------------- |
+| change | function(newValue) | 内容改变触发
